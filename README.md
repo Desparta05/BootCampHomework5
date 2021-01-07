@@ -13,4 +13,5 @@ jQuery-standard-style
 How it Works:
 Simply add a task to the listed times and click save.
 
-Screenshot
+Screenshot:
+Desparta05/BootCampHomework5/screenshot.PNG
